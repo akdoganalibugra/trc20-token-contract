@@ -6,6 +6,7 @@
     "web3": "^4.12.1"
   },
   "dependencies": {
+    "dotenv": "^16.4.5",
     "tronweb": "^5.3.2"
   }
 }
